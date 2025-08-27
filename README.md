@@ -39,5 +39,5 @@ This project uses **machine learning algorithms** to analyze health data and pre
 The required files are already uploaded
 
 
-   git clone https://github.com/<your-username>/disease-predictor.git
+   git clone https://github.com/janvikale2005/Disease-Prediction.git
 # Disease-Prediction
