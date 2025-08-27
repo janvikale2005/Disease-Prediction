@@ -40,4 +40,4 @@ The required files are already uploaded
 
 
    git clone https://github.com/janvikale2005/Disease-Prediction.git
-# Disease-Prediction
+
